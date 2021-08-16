@@ -24,7 +24,7 @@ Admin Panel
 ![page 6](https://user-images.githubusercontent.com/67583660/129577750-2478cb84-502f-44e9-b75d-1e221b32a392.JPG)
 
 
-Insid Admin Panel
+Inside Admin Panel
 
 
 ![page 7](https://user-images.githubusercontent.com/67583660/129577766-3035e55f-5853-4436-84c1-eb864acbab6b.JPG)
